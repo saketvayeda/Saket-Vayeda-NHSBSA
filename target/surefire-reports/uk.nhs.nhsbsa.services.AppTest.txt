@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: uk.nhs.nhsbsa.services.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.17 s - in uk.nhs.nhsbsa.services.AppTest
